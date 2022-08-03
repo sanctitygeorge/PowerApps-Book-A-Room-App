@@ -306,7 +306,7 @@ MeetingSelectScreen As screen:
         PressedFill: =LabelRoomsListsHeader_1.Fill
         Size: =18
         Text: |-
-            ="Select your meeting here:"
+            ="Select your meeting hereN:"
         Width: =360
         X: =350
         Y: =110
